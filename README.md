@@ -1,10 +1,10 @@
 # 💫 About Me:
-## 👋 Full Stack Developer | AI / ML Engineer
+## Full Stack Developer | AI / ML Engineer
 
 I am a **Full Stack Developer** focused on building **AI-powered applications** and scalable backend systems.
 
 ### 🔧 Core Skills
-- **Backend:** Java, Spring Boot, Microservices, JSF  
+- **Backend:** Java,Python, Spring Boot, Microservices  
 - **Frontend:** React, Angular, JavaScript, HTML  
 - **AI / ML:** AI/ML, LLMs, RAG, Vector Databases  
 
