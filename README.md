@@ -1,4 +1,15 @@
 # 💫 About Me:
+## 👋 Full Stack Developer | AI / ML Engineer
+
+I am a **Full Stack Developer** focused on building **AI-powered applications** and scalable backend systems.
+
+### 🔧 Core Skills
+- **Backend:** Java, Spring Boot, Microservices, JSF  
+- **Frontend:** React, Angular, JavaScript, HTML  
+- **AI / ML:** AI/ML, LLMs, RAG, Vector Databases  
+
+### 🚀 What I do
+I design and build end-to-end applications by combining **robust Java microservices**, **modern web UIs**, and **LLM-driven intelligence** to deliver production-ready, enterprise-grade solutions.
 <br><br>Senior Software Engineer with 6+ years of experience building Java microservices, distributed systems, and cloud-native platforms, with deep hands-on work in AI/ML, LLMs, RAG pipelines, vector search, and autonomous agents — primarily in regulated financial environments where scale, latency, and compliance matter.<br>⸻<br>🚀 I’m currently working on<br>• Building distributed, low-latency credit risk & trade lifecycle platforms at Capital One<br>• Integrating LLMs with Java systems using RAG, semantic search, and document intelligence<br>• Optimizing event-driven architectures with Kafka, Redis, and cloud-native services<br><br>⸻<br>🤝 I’m looking to collaborate on<br>• Large-scale backend systems using Java, Spring Boot, and microservices<br>• AI-powered enterprise search, RAG systems, and LLM evaluation pipelines<br>• Cloud-native architectures on AWS, Azure, or GCP<br><br>⸻<br>🧠 I’m looking for help with<br>• Advanced LLM optimization — fine-tuning, distillation, and inference cost reduction<br>• Designing production-grade AI governance and evaluation frameworks<br><br>⸻<br>📚 I’m currently learning<br>• LLM evaluation metrics and finance-specific benchmarks<br>• Model optimization techniques like quantization and LoRA<br>• AI-native developer workflows and autonomous agent orchestration<br><br>⸻<br>💬 Ask me about<br>• Full stack development ,Java microservices & high-throughput backend design<br>• Kafka-based event-driven systems<br>• RAG pipelines, vector databases, and semantic search<br>• Cloud, DevOps, and CI/CD at enterprise scale<br>
 
 
